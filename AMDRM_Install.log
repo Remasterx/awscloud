@@ -1,0 +1,28 @@
+29/08/2024 2:02:06 p. m. :: Occurance of 'PRO' found at : 30. Needs further verification.
+29/08/2024 2:02:06 p. m. :: Occurance of 'PRO' found at : 30 is NOT single word. Check for 'processor'.
+29/08/2024 2:02:06 p. m. :: Occurance of 'PRO' found at : 30 is part of PROCESSOR.Discard and check in remaining string.
+29/08/2024 2:02:06 p. m. :: Updated processor name : AMD Ryzen 7 1700X Eight-Core           
+29/08/2024 2:02:06 p. m. :: Occurance of 'PRO' NOT found.Proceed with installation.
+29/08/2024 2:02:06 p. m. :: Installation can CONTINUE. Processor : AMD Ryzen 7 1700X Eight-Core            Manufacturer : Micro-Star International Co., Ltd.
+29/08/2024 2:02:07 p. m. :: SetFolPermission_install : Not enabling as programfiles detected
+1/09/2024 4:40:45 p. m. :: Function RemoveAMDRMService Started.
+1/09/2024 4:40:45 p. m. :: Function ReadRegistryKey started.
+1/09/2024 4:40:45 p. m. :: Function ReadRegistryKey KeyValue is 
+1/09/2024 4:40:45 p. m. :: Function ReadRegistryKey Ended.
+1/09/2024 4:40:45 p. m. :: SDK install path as per environment variable : C:\Program Files\AMD\RyzenMasterSDK\
+1/09/2024 4:40:46 p. m. :: Path from which service runs as per registry : 
+1/09/2024 4:40:46 p. m. :: Not uninstalling driver service as it does not belong to current installer being removed.
+1/09/2024 4:40:46 p. m. :: Function RemoveAMDRMService. Minor Upgrade property is : 
+1/09/2024 4:40:46 p. m. :: Function RemoveAMDRMService Ended.
+1/09/2024 4:40:46 p. m. :: Function ReadStringRegistryKey started.
+1/09/2024 4:40:46 p. m. :: Function ReadStringRegistryKey KeyValue is C:\Program Files\AMD\RyzenMasterSDK\
+1/09/2024 4:40:46 p. m. :: Function ReadStringRegistryKey Ended.
+1/09/2024 4:40:46 p. m. :: Function CleanupFile_Up - DriverUtility.bat not found at C:\Program Files\AMD\RyzenMasterSDK\DriverUtility.bat
+1/09/2024 4:40:46 p. m. :: Function CleanupFile_Up - HPET.bat not found at C:\Program Files\AMD\RyzenMasterSDK\HPET.bat
+1/09/2024 4:40:55 p. m. :: Occurance of 'PRO' found at : 30. Needs further verification.
+1/09/2024 4:40:55 p. m. :: Occurance of 'PRO' found at : 30 is NOT single word. Check for 'processor'.
+1/09/2024 4:40:55 p. m. :: Occurance of 'PRO' found at : 30 is part of PROCESSOR.Discard and check in remaining string.
+1/09/2024 4:40:55 p. m. :: Updated processor name : AMD Ryzen 7 1700X Eight-Core           
+1/09/2024 4:40:55 p. m. :: Occurance of 'PRO' NOT found.Proceed with installation.
+1/09/2024 4:40:55 p. m. :: Installation can CONTINUE. Processor : AMD Ryzen 7 1700X Eight-Core            Manufacturer : Micro-Star International Co., Ltd.
+1/09/2024 4:40:55 p. m. :: SetFolPermission_install : Not enabling as programfiles detected
